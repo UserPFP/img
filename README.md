@@ -13,7 +13,7 @@ A4) Now you check if the file already exists, if it does, in the next step, you 
 
 A5) You upload the file into the folder it is supposed to.
 
-A6) The link to this file is "https://coolesding.github.io/hosting/Avatars/{FolderNumber}/{ID}.{FileType}"
+A6) The link to this file is "https://userpfp.github.io/img/Avatars/{FolderNumber}/{ID}.{FileType}"
 
 
 # Example
