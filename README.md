@@ -30,7 +30,7 @@ A4) Since the File already exists, I keep in mind to replace the old one.
 
 A5) I press the upload button in the "4" Folder and upload my "406084422308331522.gif" file, I make sure that the old one gets replaced.
 
-A6) Wherever I want to use the link, I paste in "https://coolesding.github.io/hosting/Avatars/" and change the link accordingly, which ends up as "https://coolesding.github.io/hosting/Avatars/4/406084422308331522.gif". I check if the link works by pasting it into my browser, and it does, so I know it will work in my application as well (If that isn't broken itself :P)
+A6) Wherever I want to use the link, I paste in "https://userpfp.github.io/img/Avatars/" and change the link accordingly, which ends up as "https://userpfp.github.io/img/Avatars/4/406084422308331522.gif". I check if the link works by pasting it into my browser, and it does, so I know it will work in my application as well (If that isn't broken itself :P)
 
 
 If you want to upload a badge, use the "Badges" Folder instead.
@@ -39,6 +39,6 @@ This Folder doesn't need the extra Number Folder, so you can omit that from the 
 
 "https://coolesding.github.io/hosting/Badges/{ID}.{FileType}" is the way to format your link after uploading.
 
-In my example, this link would look like this: "https://coolesding.github.io/hosting/Badges/406084422308331522.gif
+In my example, this link would look like this: "https://userpfp.github.io/img/Badges/406084422308331522.gif
 
 Thank you for reading.
