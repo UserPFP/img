@@ -1,3 +1,1 @@
-# Image hosting for UserProfiles
-Currently used to host the images for UserPFP and UserBanner
-Will likely be removed soon.
+# We are actively working on replacing this outdated and inefficient image hosting system
